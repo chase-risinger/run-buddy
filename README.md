@@ -1,4 +1,16 @@
-# run-buddy
-* stars create bullet points
-# hashtags are headers
-i dont know it's a mark down language ok
+# Run Buddy, Inc
+
+## Purpose
+A website that offers fitness training services. 
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
